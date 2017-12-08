@@ -1,0 +1,4 @@
+<resources>
+    <!-- for screens with more than 820dp of available width. Basically tablets -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
